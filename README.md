@@ -8,7 +8,7 @@ layout: page
 
 ## <span style="color: #007af6;">Fahrin Ramadan Andiwijaya</span>
 
-## Hi there! <span style='font-size:50px;'>&#128075;</span>
+## Hi! <span style='font-size:30px;'>&#128075;</span>
 
 ### <span style="color: #fc4804;">OVERWIEW</span>
 A Medical Doctor currently in Physical Medicine and Rehabilitation training. Mostly staying in Surabaya, Indonesia.
