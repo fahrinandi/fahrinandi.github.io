@@ -3,7 +3,7 @@ title: "About"
 permalink: "/about/"
 layout: page
 ---
-## Fahrin Ramadan Andiwijaya style=\"color: #f45;\">&lt;3</b>
+## Fahrin Ramadan Andiwijaya
 
 ### OVERVIEW
 A Medical Doctor with a strong interest in global public health and health access equality
@@ -13,6 +13,7 @@ A Medical Doctor with a strong interest in global public health and health acces
 Undergoing extra online courses:
 - Systematic Review and Meta-analysis course from the Johns Hopkins University,
 - introduction to R for statistical analysis from the Imperial College London.
+
 ### Teamwork
 - Former active member at the Indonesian Student Association in the United Kingdom (PPI-UK)
 - Former Head of Health Policy Analysis at the Health Unit of the Indonesian Student Association in the UK (PPI-UK)
