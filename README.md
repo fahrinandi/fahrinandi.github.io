@@ -4,6 +4,8 @@ permalink: "/about/"
 layout: page
 ---
 ![profile picture](assets/images/pict_1.jpg)
+<img src="assets/images/pict_1.jpg" alt="profile picture" width="200" height="100">
+
 
 ## Fahrin Ramadan Andiwijaya
 
