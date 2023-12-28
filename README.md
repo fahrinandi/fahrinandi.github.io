@@ -16,7 +16,7 @@ A Medical Doctor currently in Physical Medicine and Rehabilitation training. Mos
 
 ## <span style="color: #fc4804;">Publications</span>
 > Please visit my [Research Gate][Research-Gate] profile
-[Research-Gate]:https://www.researchgate.net/profile/Fahrin-Andiwijaya
+[Research-Gate]: https://www.researchgate.net/profile/Fahrin-Andiwijaya
 
 ### Education
 #### Universitas Airlangga/ Soetomo General Hospital Department of Physical Medicine and Rehabilitation Indonesia (2022 – Current) 
