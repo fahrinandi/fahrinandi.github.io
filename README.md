@@ -6,12 +6,17 @@ layout: page
 ![profile picture](assets/images/pict_1.jpg){:width="200" height="100"}
 
 
+
 ## <span style="color: #007af6;">Fahrin Ramadan Andiwijaya</span>
 
 ## Hi! <span style='font-size:30px;'>&#128075;</span>
 
 ### <span style="color: #fc4804;">OVERWIEW</span>
 A Medical Doctor currently in Physical Medicine and Rehabilitation training. Mostly staying in Surabaya, Indonesia.
+
+## <span style="color: #fc4804;">Publications</span>
+{% include embed.html url="https://www.researchgate.net/profile/Fahrin-Andiwijaya" %}
+
 
 
 ### Education
@@ -22,7 +27,7 @@ MSc in Public Health
 #### Universitas Airlangga Indonesia (2016 – 2018)
 Medical Doctor
 
-## <span style="color: #fc4804;">Publications</span>
+
 
 
 
