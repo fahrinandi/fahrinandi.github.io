@@ -15,9 +15,8 @@ layout: page
 A Medical Doctor currently in Physical Medicine and Rehabilitation training. Mostly staying in Surabaya, Indonesia.
 
 ## <span style="color: #fc4804;">Publications</span>
-{% include embed.html url="https://www.researchgate.net/profile/Fahrin-Andiwijaya" %}
-
-
+> Please visit my [Research Gate][Research-Gate] profile
+[Research-Gate]:https://www.researchgate.net/profile/Fahrin-Andiwijaya
 
 ### Education
 #### Universitas Airlangga/ Soetomo General Hospital Department of Physical Medicine and Rehabilitation Indonesia (2022 – Current) 
@@ -26,9 +25,6 @@ Physical Medicine and Rehabilitation Residency programme
 MSc in Public Health
 #### Universitas Airlangga Indonesia (2016 – 2018)
 Medical Doctor
-
-
-
 
 
 ### Teamwork
