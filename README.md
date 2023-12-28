@@ -6,7 +6,7 @@ layout: page
 ![profile picture](assets/images/pict_1.jpg){:width="200" height="100"}
 
 
-## Fahrin Ramadan Andiwijaya
+## <span style="color: #007af6;">Fahrin Ramadan Andiwijaya</span>
 
 ### OVERVIEW
 A Medical Doctor with a strong interest in global public health and health access equality
