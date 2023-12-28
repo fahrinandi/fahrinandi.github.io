@@ -8,18 +8,8 @@ layout: page
 
 ## <span style="color: #007af6;">Fahrin Ramadan Andiwijaya</span>
 
-### OVERVIEW
-A Medical Doctor with a strong interest in global public health and health access equality
-
-### Willingness to learn
-- Studied translational degenerative neuroscience at the University of Groningen, Summer School, 2018
-Undergoing extra online courses:
-- Systematic Review and Meta-analysis course from the Johns Hopkins University,
-- introduction to R for statistical analysis from the Imperial College London.
-
-### Teamwork
-- Former active member at the Indonesian Student Association in the United Kingdom (PPI-UK)
-- Former Head of Health Policy Analysis at the Health Unit of the Indonesian Student Association in the UK (PPI-UK)
+### <span style="color: #fc4804;">OVERWIEW</span>
+A Medical Doctor currently in Physical Medicine and Rehabilitation 
 
 ### Education
 #### Universitas Airlangga/ Soetomo General Hospital Department of Physical Medicine and Rehabilitation Indonesia (2022 – Current) 
@@ -28,6 +18,23 @@ Physical Medicine and Rehabilitation Residency programme
 MSc in Public Health
 #### Universitas Airlangga Indonesia (2016 – 2018)
 Medical Doctor
+
+## <span style="color: #fc4804;">Publications</span>
+
+
+
+### Teamwork
+- Former active member at the Indonesian Student Association in the United Kingdom (PPI-UK)
+- Former Head of Health Policy Analysis at the Health Unit of the Indonesian Student Association in the UK (PPI-UK)
+
+
+
+
+### Willingness to learn
+- Studied translational degenerative neuroscience at the University of Groningen, Summer School, 2018
+Undergoing extra online courses:
+- Systematic Review and Meta-analysis course from the Johns Hopkins University,
+- introduction to R for statistical analysis from the Imperial College London.
 
 ## Installation
 
