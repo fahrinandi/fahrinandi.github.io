@@ -3,7 +3,7 @@ title: "About"
 permalink: "/about/"
 layout: page
 ---
-## Fahrin Ramadan Andiwijaya
+## Fahrin Ramadan Andiwijaya style=\"color: #f45;\">&lt;3</b>
 
 ### OVERVIEW
 A Medical Doctor with a strong interest in global public health and health access equality
