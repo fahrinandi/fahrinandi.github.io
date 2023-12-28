@@ -9,7 +9,7 @@ layout: page
 ## <span style="color: #007af6;">Fahrin Ramadan Andiwijaya</span>
 
 ### <span style="color: #fc4804;">OVERWIEW</span>
-A Medical Doctor currently in Physical Medicine and Rehabilitation 
+A Medical Doctor currently in Physical Medicine and Rehabilitation training
 
 ### Education
 #### Universitas Airlangga/ Soetomo General Hospital Department of Physical Medicine and Rehabilitation Indonesia (2022 – Current) 
