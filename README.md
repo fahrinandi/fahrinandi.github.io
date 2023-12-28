@@ -3,6 +3,8 @@ title: "About"
 permalink: "/about/"
 layout: page
 ---
+![title](assets\images\pict_1.jpg))
+
 ## Fahrin Ramadan Andiwijaya
 
 ### OVERVIEW
