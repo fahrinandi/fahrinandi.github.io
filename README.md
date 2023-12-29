@@ -10,7 +10,7 @@ layout: page
 ### <span style="color: #fc4804;">OVERVIEW</span>
 A Medical Doctor currently in Physical Medicine and Rehabilitation training. Mostly staying in Surabaya, Indonesia.
 ## <span style="color: #fc4804;">Publications</span>
-Please visit my Research Gate profile: https://www.researchgate.net/profile/Fahrin-Andiwijaya
+Please visit my [Research Gate](https://www.researchgate.net/profile/Fahrin-Andiwijaya)
 
 
 ### Education
