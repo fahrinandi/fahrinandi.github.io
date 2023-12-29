@@ -3,16 +3,16 @@ title: "The Author"
 permalink: "/about/"
 layout: page
 ---
-![profile picture](assets/images/pict_1.jpg){:width="200" height="100"}
 
-
-
-## <span style="color: #007af6;">Fahrin Ramadan Andiwijaya</span>
+<div style="display: flex; align-items: center;">
+  <img src="(assets/images/pict_1.jpg)" alt="Your Image" style="margin-right: 10px;">
+  <p> ## <span style="color: #007af6;">Fahrin Ramadan Andiwijaya</span>
 
 ## Hi! <span style='font-size:30px;'>&#128075;</span>
 
 ### <span style="color: #fc4804;">OVERVIEW</span>
-A Medical Doctor currently in Physical Medicine and Rehabilitation training. Mostly staying in Surabaya, Indonesia.
+A Medical Doctor currently in Physical Medicine and Rehabilitation training. Mostly staying in Surabaya, Indonesia.</p>
+</div>
 
 ## <span style="color: #fc4804;">Publications</span>
 Please visit my Research Gate profile: https://www.researchgate.net/profile/Fahrin-Andiwijaya
