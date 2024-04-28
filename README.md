@@ -27,7 +27,7 @@ layout: page
     <div class="author-info">
         <h2>Fahrin Ramadan Andiwijaya</h2>
         <p>Hi! <span style='font-size:30px;'>&#128075;</span></p>
-        <p>I'm Fahrin... 🔭 I'm currently training in Physical Medicine and Rehabilitation Medicine. My side quest is to keep what I've learned about Public Health and Epidemiology intact for the time being. So in that effort, this blog will mostly consist of snippets or stories related to public health, epidemiology, health in general, or just anything random...🔭.</p>
+        <p>I'm Fahrin... 🔭 I'm currently training in Physical Medicine and Rehabilitation Medicine. My side quest is to keep what I've learned about Public Health and Epidemiology intact for the time being. So in that effort, this blog will mostly consist of snippets or stories related to public health, epidemiology, health in general, or just anything random 🔭.</p>
     </div>
 </div>
 
