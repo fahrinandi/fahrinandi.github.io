@@ -3,11 +3,34 @@ title: "The Author"
 permalink: "/about/"
 layout: page
 ---
-![profile picture](assets/images/pict_1.jpg){:width="200" height="100"}
 
-## <span style="color: #007af6;">Fahrin Ramadan Andiwijaya</span>
-## Hi! <span style='font-size:30px;'>&#128075;</span> 
-#### <span style="color: #007af6;">I'm Fahrin... 🔭 I'm currently on training in Physical Medicine and Rehabilitation Medicine. My side quest is to keep what I've learned about Public Health and Epidemiology intact for the time being. So in that effort, this blog will mostly consist of snipets or stories related to public health, epidemiology or health in general...🔭 Oh yea, I also have a love and hate relationship with maths.</span>
+<style>
+    .author-container {
+        display: flex;
+        align-items: center;
+    }
+
+    .author-image {
+        flex-shrink: 0;
+        margin-right: 20px;
+        width: 200px;
+        height: 100px;
+    }
+
+    .author-info {
+        color: #007af6;
+    }
+</style>
+
+<div class="author-container">
+    <img src="assets/images/pict_1.jpg" alt="profile picture" class="author-image">
+    <div class="author-info">
+        <h2>Fahrin Ramadan Andiwijaya</h2>
+        <p>Hi! <span style='font-size:30px;'>&#128075;</span></p>
+        <p>I'm Fahrin... 🔭 I'm currently training in Physical Medicine and Rehabilitation Medicine. My side quest is to keep what I've learned about Public Health and Epidemiology intact for the time being. So in that effort, this blog will mostly consist of snippets or stories related to public health, epidemiology, health in general, or just anything random...🔭.</p>
+    </div>
+</div>
+
 
 ## <span style="color: #fc4804;">Publications</span>
 Please visit my [Research Gate](https://www.researchgate.net/profile/Fahrin-Andiwijaya)
